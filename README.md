@@ -2,15 +2,18 @@
 
 ![TensorflowJS](https://www.tensorflow.org/site-assets/images/project-logos/tensorflow-js-logo-social.png)
 
-### Important underlying concepts in ML
+### Recap
 
-- *Regression* vs *Classification*
+#### Important underlying concepts in ML
+
+- *Regression* vs *Classification* (Identifying the problem type)
 	- Regression - when theres an range of labels with infinite values
 	- Classification - when the labels are discrete and limited
 - *Features* vs *Labels*
 - *Test* vs *Training* sets of data
 - Feature *normalization*
 - Feature *selection*
+- Understanding datastructures
 
 #### Moving from Lodash to Tensorflow **WHY?**
 
@@ -25,3 +28,4 @@
 - Implement already implemented algorithms in Tensorflow for practice.
 - Try to build other algorithms with Tensorflow.
 
+### The Tensorflow Library
