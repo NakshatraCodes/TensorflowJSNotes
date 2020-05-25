@@ -29,3 +29,10 @@
 - Try to build other algorithms with Tensorflow.
 
 ### The Tensorflow Library
+
+#### Starting with TFJS
+
+**Some common terms: **
+- **Tensors** - They are JS objects that wraps an array of numbers.
+- **Dimensions** - How many directions a tensor extends. 
+- **Shape** - An array of the *length* of each *Dimension* of a Tensor (Visualize .length property from top level) 
