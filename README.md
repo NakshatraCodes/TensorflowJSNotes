@@ -38,3 +38,13 @@
 - **Shape**(property) - An array of the *length* of each *Dimension* of a Tensor (Visualize .length property from top level) 
 
 - Shapes are always interpreted as **[Rows, Columns]**
+
+
+## Linear Regression
+
+- We try to figure out a relationship between independent and dependent variables.
+- It's faster than K-Nearest Neighbor, as you train it once and then can use to to predict values.
+- It uses methods which are important in much more complicated Machine Learning practices.
+- Gradient descent is a way to implement Linear Regression
+- MSE of (Mean Squarred Error) should be as low as possible.
+ 
