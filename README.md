@@ -32,7 +32,9 @@
 
 #### Starting with TFJS
 
-**Some common terms: **
+**Some common terms:**
 - **Tensors** - They are JS objects that wraps an array of numbers.
 - **Dimensions** - How many directions a tensor extends. 
-- **Shape** - An array of the *length* of each *Dimension* of a Tensor (Visualize .length property from top level) 
+- **Shape**(property) - An array of the *length* of each *Dimension* of a Tensor (Visualize .length property from top level) 
+
+- Shapes are always interpreted as **[Rows, Columns]**
